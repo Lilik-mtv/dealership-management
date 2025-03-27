@@ -19,3 +19,4 @@ public class BodyPartDto {
     private int partYear;
     private double partPrice;
 }
+// Comentariu nou !
